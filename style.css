@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(29, 23, 23);
+    background-image:url(https://wallpaperaccess.com/full/2768451.jpg) ;
     display: flex;
     text-align: center;
     align-items: center;
@@ -9,8 +9,9 @@ body{
 
 .container{
     
-    width: 350px;
-    background-color: red;
+    width: 500px;
+    height: 450px;
+    background-color: rgba(80, 77, 77, 0.568);
     border: solid 5px;
     margin-top: 15%;
     border-radius: 10%;
@@ -20,13 +21,33 @@ body{
 .texto{
     color: white;
 }
+.pic{
+    width: 100px;
+    height: 100px;
+
+}
 
 .botao{
     background-color: rgb(0, 0, 0) ;
     color: white;
+    width: 360px;
+    height: 30px;
+    margin-top: 10px;
+}
+
+.botao2{
+    background-color: rgb(0, 0, 0) ;
+    color: white;
+    width: 250px;
+    height: 20px;
 }
 
 .botao:hover{
+    color: black;
+    background-color: white;
+}
+
+.botao2:hover{
     color: black;
     background-color: white;
 }
