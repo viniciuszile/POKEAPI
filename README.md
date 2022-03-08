@@ -7,7 +7,7 @@
 
 <h1 align="center"> COMO USAR ? </h1>
 
-<P align="center">Informe O Nome Ou O ID Do Pokemon No Campo "Nome Do Pokemon"</P>
+<P align="center">Informe O Nome Ou O ID Do Pokemon No Campo "Nome Do Pokemon", e em seguida aperte em "pesquisar"</P>
 
 <img align="center" src="https://github.com/viniciuszile/POKEAPI/blob/main/images/poke1.PNG" >
 
